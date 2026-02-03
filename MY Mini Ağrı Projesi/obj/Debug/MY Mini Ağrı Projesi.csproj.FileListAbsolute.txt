@@ -1,0 +1,39 @@
+C:\Users\User\Desktop\Form Projeler\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\bin\Debug\MY Mini Ağrı Projesi.exe.config
+C:\Users\User\Desktop\Form Projeler\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\bin\Debug\MY Mini Ağrı Projesi.exe
+C:\Users\User\Desktop\Form Projeler\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\bin\Debug\MY Mini Ağrı Projesi.pdb
+C:\Users\User\Desktop\Form Projeler\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY Mini Ağrı Projesi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Form Projeler\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY_Mini_Ağrı_Projesi.Form1.resources
+C:\Users\User\Desktop\Form Projeler\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY_Mini_Ağrı_Projesi.Properties.Resources.resources
+C:\Users\User\Desktop\Form Projeler\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY Mini Ağrı Projesi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Form Projeler\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY Mini Ağrı Projesi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Form Projeler\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY Mini Ağrı Projesi.exe
+C:\Users\User\Desktop\Form Projeler\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY Mini Ağrı Projesi.pdb
+C:\Users\User\Desktop\Form Projeler\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY_Mini_Ağrı_Projesi.Frmilceler.resources
+C:\Users\User\Desktop\Form Projeler\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY_Mini_Ağrı_Projesi.Frmyemekler.resources
+C:\Users\User\Desktop\Form Projeler\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY_Mini_Ağrı_Projesi.Frmtarihce.resources
+C:\Users\User\Desktop\Form Projeler\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\Form Projeler\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\Form Projeler\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\Form Projeler\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\Form Projeler\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY Mini Ağrı Projesi.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\bin\Debug\MY Mini Ağrı Projesi.exe.config
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\bin\Debug\MY Mini Ağrı Projesi.exe
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\bin\Debug\MY Mini Ağrı Projesi.pdb
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY Mini Ağrı Projesi.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY Mini Ağrı Projesi.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY_Mini_Ağrı_Projesi.Form1.resources
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY_Mini_Ağrı_Projesi.Frmgezilecekyerler.resources
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY_Mini_Ağrı_Projesi.Frmhakkımızda.resources
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY_Mini_Ağrı_Projesi.Frmilceler.resources
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY_Mini_Ağrı_Projesi.Frmnufuslar.resources
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY_Mini_Ağrı_Projesi.Frmtarihce.resources
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY_Mini_Ağrı_Projesi.Frmyemekler.resources
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY_Mini_Ağrı_Projesi.Properties.Resources.resources
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY Mini Ağrı Projesi.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY Mini Ağrı Projesi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY Mini Ağrı Projesi.exe
+C:\Users\User\Desktop\MY Mini Ağrı Projesi\MY Mini Ağrı Projesi\obj\Debug\MY Mini Ağrı Projesi.pdb

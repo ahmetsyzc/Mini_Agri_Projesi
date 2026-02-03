@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="abdigörköftesi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\abdigorköftesi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="agridagi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\agridagi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="agriharitasi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\agriharitasi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="agrimerkez_genel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\images.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ayranaşı" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ayranasi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ağrıyaprakdöneri" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\yaprakdöneri.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="balıkgolu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\balıkgolu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="diyadinkaplicalari" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\diyadinkaplicalari.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="diyadintarihi" xml:space="preserve">
+    <value>Diyadin, Ağrı ilinin köklü tarihî yerleşimlerinden biridir. İlçenin tarihi Urartular dönemine kadar uzanmakta olup, bölge tarih boyunca stratejik konumu nedeniyle birçok medeniyetin hâkimiyetine girmiştir. Urartuların ardından Persler, Romalılar, Bizanslılar ve Selçuklular bölgede etkili olmuştur.
+
+1071 Malazgirt Zaferi’nden sonra Diyadin ve çevresi Türk hâkimiyetine girmiş, daha sonraki dönemlerde İlhanlılar ve Karakoyunluların yönetiminde kalmıştır. 16. yüzyılda Osmanlı Devleti’ne bağlanan ilçe, uzun süre Osmanlı idaresinde kalmıştır.
+
+Cumhuriyet döneminde Ağrı iline bağlı bir ilçe olarak teşkilatlanan Diyadin, özellikle Diyadin Kaplıcaları ile tanınmaktadır. Günümüzde tarım, hayvancılık ve kaplıca turizmi ilçenin önemli geçim kaynakları arasındadır.</value>
+  </data>
+  <data name="diyadin_genel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\diyadin-genel.1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dogubeyazittarihi" xml:space="preserve">
+    <value>Doğubayazıt, Ağrı ilinin en köklü tarihine sahip ilçelerinden biridir. İlçenin tarihi, Urartular dönemine kadar uzanmakta olup Eski Beyazıt ve çevresinde Urartu mezarları bulunmaktadır. İlk yerleşim Yukarı Beyazıt’taki eski kale çevresinde kurulmuştur ve bölge uzun süre önemli bir gümrük ve geçiş merkezi olarak gelişmiştir.
+
+Tarih boyunca Urartular, Persler, Romalılar, Bizanslılar, Selçuklular, Moğollar, Karakoyunlular, Akkoyunlular ve Osmanlılar bölgeye hâkim olmuştur. 1514 Çaldıran Savaşı’ndan sonra Osmanlı topraklarına katılan Doğubayazıt, stratejik konumu nedeniyle birçok sefer ve işgale sahne olmuştur. İlçeye adını veren Beyazıt Kalesi ve İshak Paşa Sarayı, bölgenin tarihî öneminin en önemli simgelerindendir.
+
+Cumhuriyet döneminde idari düzenlemeler sonucunda 1934 yılında ilçenin adı Doğubayazıt olarak değiştirilmiştir.
+
+Coğrafi olarak Türkiye’nin doğusunda, İran sınırında yer alan ilçe; kuzeyinde Ağrı Dağı, güneyinde Tendürek Dağları ile çevrilidir. Doğubayazıt Ovası tarım ve hayvancılık açısından önemlidir. İlçede tipik Doğu Anadolu iklimi görülmekle birlikte ova yapısı nedeniyle çevre ilçelere göre iklim daha ılımandır.
+
+Bitki örtüsü genel olarak çorak ve bozkır yapısındadır. Bölgede ışgın (ışkın), yemlik ve çeşitli dağ bitkileri yetişmektedir.</value>
+  </data>
+  <data name="dogubeyazit_genel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\187x230.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eleskirttarihi" xml:space="preserve">
+    <value>Eleşkirt, Ağrı ilinin tarihî ilçelerinden biridir ve geçmişi Urartular dönemine kadar uzanmaktadır. İlçe, tarih boyunca Doğu Anadolu’yu İran ve Kafkasya’ya bağlayan yollar üzerinde yer aldığı için stratejik bir öneme sahip olmuştur.
+
+Bölge sırasıyla Urartular, Persler, Romalılar, Bizanslılar ve Selçukluların hâkimiyetine girmiştir. 1071 Malazgirt Zaferi’nden sonra Eleşkirt ve çevresi Türk hâkimiyetine katılmış, ilerleyen dönemlerde İlhanlılar ve Karakoyunlular tarafından yönetilmiştir.
+
+yüzyılda Osmanlı Devleti topraklarına katılan Eleşkirt, uzun süre Osmanlı idaresinde kalmıştır. Cumhuriyet döneminde Ağrı iline bağlı bir ilçe olarak teşkilatlanan Eleşkirt, günümüzde tarım ve hayvancılığın yaygın olduğu bir yerleşim merkezidir.</value>
+  </data>
+  <data name="elşkrt_genel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\elşkrt.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="geceagridagi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\geceagridagi.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gevenbalı" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gevenbali.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gösteberg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gösteberg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hamurtarihi" xml:space="preserve">
+    <value>Hamur, Ağrı ilinin güneybatısında yer alan ve tarihi Urartular dönemine kadar uzanan eski yerleşim alanlarından biridir. Bölge, tarih boyunca Doğu Anadolu’yu İran ve iç Anadolu’ya bağlayan yollar üzerinde bulunması nedeniyle stratejik bir öneme sahip olmuştur.
+
+Urartuların ardından Persler, Romalılar, Bizanslılar ve Selçuklular bölgede hâkimiyet kurmuştur. 1071 Malazgirt Zaferi’nden sonra Hamur ve çevresi Türk hâkimiyetine girmiş, ilerleyen dönemlerde İlhanlılar ve Karakoyunluların yönetiminde kalmıştır.
+
+yüzyılda Osmanlı Devleti’ne bağlanan Hamur, Cumhuriyet döneminde Ağrı iline bağlı bir ilçe olarak teşkilatlanmıştır. Günümüzde tarım ve hayvancılığın yaygın olduğu ilçe, kırsal yapısı ve doğal çevresiyle öne çıkmaktadır.</value>
+  </data>
+  <data name="hasude" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hasude.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="haşılyemeği" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hasilyemegi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hengel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hengel.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hmr_genel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\hmrt.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ishakpasasarayi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ishakpasasarayi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Klasik_Muzik_Schubert_Ave_Maria_Opera" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Klasik-Muzik-Schubert-Ave-Maria-Opera.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="merkeztarihi" xml:space="preserve">
+    <value>Ağrı, Doğu Anadolu Bölgesi’nin en eski yerleşim alanlarından biridir ve tarihi Urartular dönemine kadar uzanmaktadır. Bölge, stratejik konumu nedeniyle tarih boyunca birçok medeniyetin egemenliği altına girmiştir. Urartuların ardından Persler, Romalılar, Bizanslılar ve Selçuklular Ağrı ve çevresinde hâkimiyet kurmuştur.
+
+1071 Malazgirt Zaferi’nden sonra Ağrı ve çevresi Türk hâkimiyetine girmiştir. Daha sonraki dönemlerde İlhanlılar, Karakoyunlular ve Akkoyunlular bölgeye egemen olmuştur. 16. yüzyılda Osmanlı Devleti topraklarına katılan Ağrı, uzun süre Osmanlı yönetiminde kalmıştır.
+
+Cumhuriyet’in ilanından sonra 1927 yılında vilayet merkezi Karaköse’den Ağrı adını almış, günümüzdeki idari yapısına kavuşmuştur. Ağrı Dağı, tarih boyunca bölgenin simgesi olmuş ve ilin kültürel kimliğinde önemli bir yer tutmuştur.</value>
+  </data>
+  <data name="meteorcukuru" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\meteorcukuru.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="nuhungemisi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\nuhungemisi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="patnostarihi" xml:space="preserve">
+    <value>Patnos, Ağrı ilinin en eski yerleşim alanlarından biridir ve tarihi Urartular dönemine kadar uzanmaktadır. İlçe, stratejik konumu nedeniyle tarih boyunca birçok medeniyetin hâkimiyetine girmiştir. Bölge sırasıyla Urartular, Persler, Romalılar, Bizanslılar ve Selçuklular tarafından yönetilmiştir.
+
+1071 Malazgirt Zaferi’nden sonra Patnos ve çevresi Türklerin hâkimiyetine girmiş, Selçuklu Devleti’ne bağlanmıştır. Daha sonraki dönemlerde Moğollar, İlhanlılar ve Karakoyunlular bölgede etkili olmuştur. 16. yüzyılda Osmanlı Devleti topraklarına katılan Patnos, uzun yıllar Osmanlı idaresinde kalmıştır.
+
+Cumhuriyet’in ilanından sonra yapılan idari düzenlemelerle Patnos, Ağrı iline bağlı bir ilçe olarak teşkilatlanmıştır. Günümüzde tarım ve hayvancılığın yaygın olduğu Patnos, tarihi ve kültürel geçmişiyle bölgenin önemli yerleşim merkezlerinden biridir.</value>
+  </data>
+  <data name="ptns_genel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ptns.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sabahagridagi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pexels-ozkan-aygun-120057239-9870403.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="selekeli" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\selekeli.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="taslicaytarihi" xml:space="preserve">
+    <value>Taşlıçay, Ağrı ilinin doğusunda yer alan ve tarihi Urartular dönemine kadar uzanan eski yerleşim alanlarından biridir. Bölge, tarih boyunca Doğu Anadolu’yu İran ve Kafkasya’ya bağlayan yollar üzerinde bulunması nedeniyle stratejik bir konuma sahip olmuştur.
+
+Urartuların ardından Persler, Romalılar, Bizanslılar ve Selçuklular bölgede hâkimiyet kurmuştur. 1071 Malazgirt Zaferi’nden sonra Taşlıçay ve çevresi Türk hâkimiyetine girmiş, ilerleyen dönemlerde İlhanlılar ve Karakoyunluların yönetiminde kalmıştır.
+
+yüzyılda Osmanlı Devleti’ne bağlanan Taşlıçay, Cumhuriyet döneminde Ağrı iline bağlı bir ilçe olarak teşkilatlanmıştır. Günümüzde tarım ve hayvancılığın yaygın olduğu Taşlıçay, doğal yapısı ve kırsal yaşamıyla dikkat çeker.</value>
+  </data>
+  <data name="tendüreklavakintilari" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tendüreklavakintilari.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ttk_genel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ttk.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="tutaktarihi" xml:space="preserve">
+    <value>Tutak, Ağrı ilinin batısında yer alan ve tarihi Urartular dönemine kadar uzanan eski bir yerleşim alanıdır. Bölge, tarih boyunca Doğu Anadolu’yu iç kesimlere bağlayan yollar üzerinde bulunması nedeniyle stratejik bir öneme sahip olmuştur.
+
+Urartuların ardından Persler, Romalılar, Bizanslılar ve Selçuklular bölgede hâkimiyet kurmuştur. 1071 Malazgirt Zaferi’nden sonra Tutak ve çevresi Türk hâkimiyetine girmiş, daha sonraki dönemlerde İlhanlılar ve Karakoyunluların yönetiminde kalmıştır.
+
+yüzyılda Osmanlı Devleti’ne bağlanan Tutak, uzun süre Osmanlı idaresinde kalmıştır. Cumhuriyet döneminde Ağrı iline bağlı bir ilçe olarak teşkilatlanan Tutak’ta günümüzde tarım ve hayvancılık başlıca geçim kaynaklarıdır.</value>
+  </data>
+  <data name="tşlçy_genel" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\tşlçy.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="çirişketesi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\cirisketesi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>

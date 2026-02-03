@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A8AE8BC5-1BC7-4511-99FE-F2413ECBD8CC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MY_Mini_Ağrı_Projesi</RootNamespace>
+    <AssemblyName>MY Mini Ağrı Projesi</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmgezilecekyerler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmgezilecekyerler.Designer.cs">
+      <DependentUpon>Frmgezilecekyerler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmhakkımızda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmhakkımızda.Designer.cs">
+      <DependentUpon>Frmhakkımızda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmilceler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmilceler.Designer.cs">
+      <DependentUpon>Frmilceler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmnufuslar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmnufuslar.Designer.cs">
+      <DependentUpon>Frmnufuslar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmtarihce.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmtarihce.Designer.cs">
+      <DependentUpon>Frmtarihce.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frmyemekler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmyemekler.Designer.cs">
+      <DependentUpon>Frmyemekler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmgezilecekyerler.resx">
+      <DependentUpon>Frmgezilecekyerler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmhakkımızda.resx">
+      <DependentUpon>Frmhakkımızda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmilceler.resx">
+      <DependentUpon>Frmilceler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmnufuslar.resx">
+      <DependentUpon>Frmnufuslar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmtarihce.resx">
+      <DependentUpon>Frmtarihce.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmyemekler.resx">
+      <DependentUpon>Frmyemekler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\geceagridagi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ad.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agrisabah.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-ozkan-aygun-120057239-9870403.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\187x230.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diyadin-genel.1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\elşkrt.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hmrt.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ptns.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tşlçy.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ttk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Klasik-Muzik-Schubert-Ave-Maria-Opera.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agriharitasi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agridagi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\balıkgolu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\diyadinkaplicalari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ishakpasasarayi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meteorcukuru.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nuhungemisi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tendüreklavakintilari.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\abdigorköftesi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ayranasi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cirisketesi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gevenbali.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gösteberg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hasilyemegi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hasude.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hengel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\selekeli.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yaprakdöneri.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

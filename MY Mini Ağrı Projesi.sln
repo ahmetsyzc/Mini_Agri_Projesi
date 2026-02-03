@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35425.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MY Mini Ağrı Projesi", "MY Mini Ağrı Projesi\MY Mini Ağrı Projesi.csproj", "{A8AE8BC5-1BC7-4511-99FE-F2413ECBD8CC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Atlas Ağrı", "Atlas Ağrı\Atlas Ağrı.vdproj", "{21CBE04F-32A3-4E47-818D-741DF2D469F4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Atlas Ağrı", "Atlas Ağrı\Atlas Ağrı.vdproj", "{A95517CA-17EE-459C-ACE4-31AFFA8B8D4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8AE8BC5-1BC7-4511-99FE-F2413ECBD8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8AE8BC5-1BC7-4511-99FE-F2413ECBD8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8AE8BC5-1BC7-4511-99FE-F2413ECBD8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8AE8BC5-1BC7-4511-99FE-F2413ECBD8CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21CBE04F-32A3-4E47-818D-741DF2D469F4}.Debug|Any CPU.ActiveCfg = Debug
+		{21CBE04F-32A3-4E47-818D-741DF2D469F4}.Release|Any CPU.ActiveCfg = Release
+		{A95517CA-17EE-459C-ACE4-31AFFA8B8D4B}.Debug|Any CPU.ActiveCfg = Debug
+		{A95517CA-17EE-459C-ACE4-31AFFA8B8D4B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {345B1B63-3A34-4F68-A4DF-D006ECD0730D}
+	EndGlobalSection
+EndGlobal
