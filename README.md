@@ -63,7 +63,19 @@ Proje geliştirme sürecinde Windows Forms kullanımı, birden fazla form arası
 
 ## 📸 Ekran Görüntüleri
 
-Projenin kullanıcı arayüzüne ait ekran görüntüleri bu bölümde paylaşılacaktır.
+### ☀️ Ana Ekran - Gündüz Modu
+
+![Ana Ekran - Gündüz Modu](screenshots/ana-ekran-gunduz.png)
+
+### 🌙 Ana Ekran - Gece Modu
+
+![Ana Ekran - Gece Modu](screenshots/ana-ekran-gece.png)
+
+### 📊 Nüfus Bilgileri
+
+Nüfus ekranında ilçelere ait veriler liste, grafik ve ilerleme çubuğu kullanılarak görüntülenmektedir.
+
+![Nüfus Bilgileri](screenshots/nufus-bilgileri.png)
 
 ## 📦 Kurulum
 
